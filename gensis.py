@@ -1,6 +1,14 @@
 # gensis.py - simple Snake game using pygame
 # Run: python gensis.py
 
+"""Genesis Snake Game
+  A simple implementation of the classic Snake game using the Pygame library.
+
+  Returns: A playable Snake game window.
+      _type_: Python script to run the Snake game.
+  """
+
+# Import necessary modules
 import pygame
 import random
 
